@@ -8,5 +8,3 @@ class Product(BaseModel):
     description: str
     price: float
     quantity: int
-
-   
